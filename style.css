@@ -1,13 +1,13 @@
+
 body
 {
-  height: 100%;
-  width: 100%;
+  font-family: cursive;
   background-color: black;
-  color: hotpink;
+  color: blue;
 }
 
-.content-box
+h1
 {
-  
+  color:hotpink;
+  background-color: white;
 }
-
